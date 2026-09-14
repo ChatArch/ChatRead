@@ -17,7 +17,7 @@
 
 # ChatRead
 
-ChatRead 是 ChatArch 的阅读任务工具包。当前 `0.0.1` 为注册占位版本，仅提供标准命令行骨架，尚未实现阅读业务功能。
+ChatRead 是 ChatArch 的阅读任务工具包。当前 `0.0.2` 为发布链路验证版本，仅提供标准命令行骨架，尚未实现阅读业务功能。
 
 
 文档入口：<https://arch.gh.wzhecnu.cn/ChatRead/>
