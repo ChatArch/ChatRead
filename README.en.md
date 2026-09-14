@@ -17,7 +17,7 @@
 
 # ChatRead
 
-ChatRead is a reading-task toolkit for ChatArch. Version `0.0.1` is a registration placeholder with the standard CLI skeleton only; reading features are not implemented yet.
+ChatRead is a reading-task toolkit for ChatArch. Version `0.0.2` validates the release pipeline with the standard CLI skeleton only; reading features are not implemented yet.
 
 
 Documentation entry: <https://arch.gh.wzhecnu.cn/ChatRead/en/>
